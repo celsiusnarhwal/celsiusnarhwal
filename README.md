@@ -2,6 +2,7 @@
 
 I'm Celsius. Nice to meet you.
 
-I occasionally make things. Sometimes, I put them here for the world to see. Feel free to look around.
+I mostly make things that solve my own problems.
+Sometimes, I release them here so they might solve yours, too.
 
 Thank you kindly for your attention. 
